@@ -1,0 +1,23 @@
+1. Write a program that will take a input from user and print the input ?
+2. Write a program that will take a input from user and print the input in a new line ?
+3. Write a program that will take multiple input from user and print it in a new line ?
+4. Write a program that takes two number from user and print the sum of that two number ?
+5. Write a program that takes two number from user and print the sub of that two number ?
+6. Write a program to print hello world message ?
+7. write a program to read one of the hex digit A-F, and display it in the next line in decimal?
+8. Write a program that will read three number and will print the greatest number among these numbers ?
+9. write a program that compare input with 5.(123 > 3), (222 > 2), (321 > 3).
+10. write a program that print 8 stars(*).
+11. write a program that will read a number N from the user, print n stats.(3 > ***)
+12. write a program that will read a number N from the user and print N line of N star ?
+13. write a program that will print 0 to 9.
+14. write a program that reverse a string.(ABC > CBA).
+15. Write a program that will count number of 1 in a  binary number ?
+16. Write a Program that promots the user to enter a character, and in next lines print its ASCII code in binary, 
+    and the number of 1 bits in its ASCII code.
+17. Write a program that will promot the user to enter a hex digit charecter ("0".."9" or "A".."F") and 
+    display it in decimal and  ask the user if he or she want to do it again ? If the user types 
+    Y or y the program repeats else the program terminates.
+18. FACTORIAL
+19. PRIMENUMBER
+	
